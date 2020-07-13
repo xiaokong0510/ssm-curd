@@ -20,4 +20,4 @@
 
 ### 配置地狱
 
-Spring人称“配置地狱”，各种xml配置文件
+Spring人称“配置地狱”，各种xml配置文件，[详细配置文件笔记](https://github.com/xiaokong0510/ssm-curd/blob/master/%E6%95%B4%E5%90%88SSM(%E4%B8%80)--%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6.md)

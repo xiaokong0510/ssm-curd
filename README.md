@@ -18,3 +18,6 @@
 - 分页插件-PageHelper
 - 逆向工程-MyBatis Generator
 
+### 配置地狱
+
+Spring人称“配置地狱”，各种xml配置文件
